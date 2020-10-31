@@ -1,4 +1,4 @@
-# Blazehack-Loader
+# Blazehack-Loader(Easy-Language)
 运行时修复BlazeHack的一个Loader  
 目前只修复了ClientState中的  
 m_Events  
@@ -10,5 +10,5 @@ ClientState还有很多表需要修复，我推荐的是在IDA中更改ClientSta
 # TODO:
 修复其他ClientState结构,确保FakeLags显示以及其他功能正常  
 优化代码,改进OEP调用  
-
+添加Primal-Loader支持(正在进行中...)
 ![IMAGE](https://github.com/extremeblackliu/Blazehack-Loader/blob/main/bh.png)
